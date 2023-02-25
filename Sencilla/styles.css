@@ -1,5 +1,5 @@
 table {
-    background-image: url(../../Portfolio/img/inicio.png);
+    background-image: url(../img/Fondo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -7,9 +7,9 @@ table {
 }
 
 h3 {
-    font-family: "Poppins", sans-serif;
+    font-family: 'Poppins', sans-serif;
     
-    color: rgb(241, 241, 241);
+    color: rgb(241, 227, 22);
     text-align: left;
     font-weight: 300;
     font-size: 18px;
