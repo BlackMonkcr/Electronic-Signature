@@ -1,0 +1,22 @@
+table {
+    background-image: url(../img/Fondo-Formal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    color:rgb(29, 36, 36)y;
+    text-align: left;
+    font-weight: semi-bold;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+    padding-right: 20px;
+}
+
+
+.img-perfil {
+    border-radius: 10px;
+    padding: 15px 10px 5px 20px 
+}
